@@ -6,7 +6,8 @@
 
 ## 🎥 Demo Video
 
-👉 [Watch the demo](https://github.com/RuchiBadkur/PerpennyTravellers/src/assets/pp_travellers.mp4)
+👉 [![Watch the demo](./assets/demo-thumbnail.png)](https://github.com/RuchiBadkur/PerpennyTravellers/blob/main/assets/pp_travellers.mp4)
+
 
 
 ## 🌐 Live Demo
