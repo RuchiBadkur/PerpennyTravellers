@@ -4,6 +4,11 @@
 
 ---
 
+## 🎥 Demo Video
+
+👉 [Watch the demo](https://github.com/RuchiBadkur/PerpennyTravellers/src/assets/pp_travellers.mp4)
+
+
 ## 🌐 Live Demo
 
 👉 [View the Live Site](https://ruchibadkur.github.io/PerpennyTravellers/)
