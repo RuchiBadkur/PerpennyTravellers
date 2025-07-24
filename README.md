@@ -3,7 +3,7 @@
 **PerpennyTravellers** is an affordable and user-friendly travel agency website built using **React** and **Tailwind CSS**. It offers a seamless experience for users to explore destinations, services, testimonials, and more — all wrapped in a clean and responsive design.
 
 ---
-[Live Link}(https://ruchibadkur.github.io/PerpennyTravellers/#/)
+[Live Link](https://ruchibadkur.github.io/PerpennyTravellers/#/)
 
 ## 🎥 Demo Video
 
